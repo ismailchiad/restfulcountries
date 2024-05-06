@@ -5,6 +5,13 @@ import json
 # .env 
 # .gitignore 
 # test 
+# ajoute jsin fonction
+# documentation = commentaire respect pep257
+# 04/03/2024 nom fichier country.json
+# json -> data folder
+# amélioreration = crée un quiz utilisateur pose une question et l'api lui renvoie + ou -
+# systeme de quiz 
+# renomer fichier
 
 
 url = "https://restfulcountries.com/api/v1"
