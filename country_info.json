@@ -1,0 +1,28 @@
+{
+    "data": {
+        "name": "Morocco",
+        "full_name": "Kingdom of Morocco",
+        "capital": "Rabat",
+        "iso2": "MA",
+        "iso3": "MAR",
+        "covid19": {
+            "total_case": "356,335",
+            "total_deaths": "5,846",
+            "last_updated": "2020-12-01T08:35:32.000000Z"
+        },
+        "current_president": null,
+        "currency": "MAD",
+        "phone_code": "212",
+        "continent": "Africa",
+        "description": null,
+        "size": "446,550 km\u00b2",
+        "independence_date": null,
+        "population": "37,097,014",
+        "href": {
+            "self": "https://restfulcountries.com/api/v1/countries/Morocco",
+            "states": "https://restfulcountries.com/api/v1/countries/Morocco/states",
+            "presidents": "https://restfulcountries.com/api/v1/countries/Morocco/presidents",
+            "flag": "https://restfulcountries.com/assets/images/flags/Morocco.png"
+        }
+    }
+}
