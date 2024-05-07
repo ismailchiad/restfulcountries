@@ -1,6 +1,7 @@
 import random
 import json
 
+CATEGORY = ['capital', 'population']
 # Charger les données des pays depuis le fichier JSON
 def charger_donnees_pays():
     with open('data/country_info.json', 'r') as file:

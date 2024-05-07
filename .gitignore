@@ -1,0 +1,8 @@
+# Fichiers temporaires
+*.tmp
+
+# Fichiers de configuration locaux
+config.ini
+
+# Répertoire de dépendances Python généré
+venv/
